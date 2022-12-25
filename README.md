@@ -54,7 +54,7 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
 </p>
 
 
-<h3>Languages and Tools:</h3>
+<h3>What tools do we use?</h3>
 <p>
     &emsp;
     <img align="center" alt="Blender" width="26px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/Blender-icon.png" />
