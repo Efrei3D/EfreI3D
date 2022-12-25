@@ -57,13 +57,13 @@ EFREI 3D is a student-run association located at EFREI Paris that brings togethe
 <h3>Languages and Tools:</h3>
 <p>
     &emsp;
-    <img align="center" alt="Blender" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img align="center" alt="Blender" width="26px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/Blender-icon.png" />
     &emsp;
-    <img align="center" alt="SolidWorks" width="32px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/sql-icon.png" />
+    <img align="center" alt="SolidWorks" width="32px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/SolidWorks-icon.png" />
     &nbsp;
     <img align="center" alt="Unreal Engine" width="26px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/ue4-icon-v2.png" />
     &emsp;
-    <img align="center" alt="Adobe Creative Suite" width="26px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/ue4-icon-v2.png" />
+    <img align="center" alt="Adobe Creative Suite" width="26px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/AdobeCreativeCloud-icon.png" />
     &emsp;
     <img align="center" alt="FL Studio" width="35px" src="https://raw.githubusercontent.com/Ollianels/myicons/main/fl-studio-icon.png" />
 </p>
